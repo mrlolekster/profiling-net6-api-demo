@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GOAZRAPP02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8721275F469E4DD181797224E5E4CB48 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F0D684B279E4600BBD1B576614FB547 }}
           package: .
